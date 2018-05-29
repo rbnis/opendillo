@@ -46,7 +46,7 @@ Anufacturing of this frame is a little bit more complex than most other frames, 
 
 Currently i'm milling the brackets myself with an 3Axis CNC mill and drilling the remaining holes with the help of an 3D printed drill guide (Kinda a negative of the brackets). 5Axis milling would be preferable though.
 
-### 3D printed aprts
+### 3D printed parts
 
 - `/base/canopy*`
 - `/flavor/antennamount*`
